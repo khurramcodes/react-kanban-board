@@ -1,0 +1,112 @@
+[
+  {
+    "id": "task-1",
+    "title": "Design Landing Page",
+    "description": "Create initial wireframe for the landing page.",
+    "asignedTo": {
+      "id": "user-1",
+      "name": "Alice Johnson"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-01T10:30:00Z"
+  },
+  {
+    "id": "task-2",
+    "title": "Setup Database",
+    "description": "Initialize PostgreSQL schema for user management.",
+    "asignedTo": {
+      "id": "user-2",
+      "name": "Bob Smith"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-02T09:15:00Z"
+  },
+  {
+    "id": "task-3",
+    "title": "Implement Auth",
+    "description": "Develop JWT-based authentication system.",
+    "asignedTo": {
+      "id": "user-3",
+      "name": "Charlie Brown"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-03T14:45:00Z"
+  },
+  {
+    "id": "task-4",
+    "title": "Create API Routes",
+    "description": "Set up REST API endpoints for tasks.",
+    "asignedTo": {
+      "id": "user-1",
+      "name": "Alice Johnson"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-04T11:00:00Z"
+  },
+  {
+    "id": "task-5",
+    "title": "Frontend Integration",
+    "description": "Connect React app with backend API.",
+    "asignedTo": {
+      "id": "user-2",
+      "name": "Bob Smith"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-05T13:20:00Z"
+  },
+  {
+    "id": "task-6",
+    "title": "Unit Testing",
+    "description": "Write unit tests for API controllers.",
+    "asignedTo": {
+      "id": "user-4",
+      "name": "Diana Prince"
+    },
+    "status": "DONE",
+    "createdAt": "2025-09-06T08:40:00Z"
+  },
+  {
+    "id": "task-7",
+    "title": "Setup CI/CD",
+    "description": "Configure GitHub Actions for automated deployment.",
+    "asignedTo": {
+      "id": "user-3",
+      "name": "Charlie Brown"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-07T15:10:00Z"
+  },
+  {
+    "id": "task-8",
+    "title": "Write Documentation",
+    "description": "Prepare README and API usage docs.",
+    "asignedTo": {
+      "id": "user-4",
+      "name": "Diana Prince"
+    },
+    "status": "TODO",
+    "createdAt": "2025-09-08T12:00:00Z"
+  },
+  {
+    "id": "task-9",
+    "title": "UI Styling",
+    "description": "Apply TailwindCSS for responsive design.",
+    "asignedTo": {
+      "id": "user-1",
+      "name": "Alice Johnson"
+    },
+    "status": "DONE",
+    "createdAt": "2025-09-09T09:50:00Z"
+  },
+  {
+    "id": "task-10",
+    "title": "Bug Fixing",
+    "description": "Fix login issues reported by QA team.",
+    "asignedTo": {
+      "id": "user-2",
+      "name": "Bob Smith"
+    },
+    "status": "IN_PROGRESS",
+    "createdAt": "2025-09-10T17:25:00Z"
+  }
+]
